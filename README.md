@@ -1,22 +1,22 @@
 # Practice: Form Input Types
 
-By _Kate Kiatsiri_
+By _Kate Kiatsiri , Andrew Henderson_
 
-
+** Practice lesson on page.14 week.4
 
 ## Technologies used
   1. HTML
   2. CSS
   3. Bootstrap
-  4. Javacript & jQuery
+  4. Javascript & jQuery
 
 ## Description
 _Branching lesson practice: drink.html , styles.css , scripts.js_
 
 ## Set up/installation requirement
 * Code editor required (such as Visual Studio Code) and Github account.
-* Navigate this address https://github.com/keidsiri/Portfolio into your browser or 
-<a href="https://github.com/keidsiri/Portfolio"> click here! </a>
+* Navigate this address https://github.com/keidsiri/todo-list into your browser or 
+<a href="https://github.com/keidsiri/todo-list"> click here! </a>
 * Clone this repository to your desktop.
 * Navigate to the top of directory
 * Connect to your Github repository
@@ -30,7 +30,7 @@ _Branching lesson practice: drink.html , styles.css , scripts.js_
 ## License
 MIT License _(https://opensource.org/licenses/MIT)_
 
-Copyright (c) 2021 Kate Kiatsiri
+Copyright (c) 2021 Kate Kiatsiri , Andrew Henderson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
