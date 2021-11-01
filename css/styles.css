@@ -1,0 +1,13 @@
+.btn-success {
+  color:blue;
+}
+
+input {
+  background-color:rgb(208, 228, 245);
+}
+
+h1 , h3 {
+  text-align: center;
+  background-color: floralwhite;
+  font-family: 'Courier New', Courier, monospace;
+}
