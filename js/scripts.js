@@ -27,7 +27,8 @@ if ( click === true) {
 
 
 
-// // Business logic for task """"database"""
+// Business logic for task """"database""" ( from Matt Cas)
+
 // function ToDoList() {
 //   this.tasks = {};
 //   this.currentId = 0;
